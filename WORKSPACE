@@ -218,7 +218,7 @@ maven_install(
         "com.google.guava:guava-testlib:%s-jre" % GUAVA_VERSION,
         "com.google.guava:failureaccess:1.0.1",
         "com.google.guava:guava-beta-checker:1.0",
-        "com.google.protobuf:protobuf-java:3.7.0",
+        "com.google.protobuf:protobuf-java:3.22.2",
         "com.google.testing.compile:compile-testing:0.18",
         "com.google.truth:truth:1.1",
         "com.squareup:javapoet:1.13.0",
