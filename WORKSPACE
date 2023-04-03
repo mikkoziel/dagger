@@ -219,7 +219,7 @@ maven_install(
         "com.google.guava:failureaccess:1.0.1",
         "com.google.guava:guava-beta-checker:1.0",
         "com.google.protobuf:protobuf-java:3.7.0",
-        "com.google.testing.compile:compile-testing:0.18",
+        "com.google.testing.compile:compile-testing:0.21.0",
         "com.google.truth:truth:1.1",
         "com.squareup:javapoet:1.13.0",
         "com.squareup:kotlinpoet:1.11.0",
