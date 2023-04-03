@@ -188,7 +188,7 @@ maven_install(
         "androidx.navigation:navigation-runtime:2.5.1",
         "androidx.savedstate:savedstate:1.2.0",
         "androidx.test:monitor:1.4.0",
-        "androidx.test:core:1.4.0",
+        "androidx.test:core:1.5.0",
         "androidx.test.ext:junit:1.1.3",
         "com.android.support:appcompat-v7:25.0.0",
         "com.android.support:support-annotations:25.0.0",
