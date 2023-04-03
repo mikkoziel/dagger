@@ -203,7 +203,7 @@ maven_install(
         "com.android.tools:testutils:%s" % ANDROID_LINT_VERSION,
         "com.google.auto:auto-common:%s" % AUTO_COMMON_VERSION,
         "com.google.auto.factory:auto-factory:1.0",
-        "com.google.auto.service:auto-service:1.0",
+        "com.google.auto.service:auto-service:1.0.1",
         "com.google.auto.service:auto-service-annotations:1.0",
         "com.google.auto.value:auto-value:1.9",
         "com.google.auto.value:auto-value-annotations:1.9",
