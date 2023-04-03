@@ -249,7 +249,7 @@ maven_install(
         "org.mockito:mockito-core:2.28.2",
         "org.objenesis:objenesis:1.0",
         "org.robolectric:robolectric:4.4",
-        "org.robolectric:shadows-framework:4.4",  # For ActivityController
+        "org.robolectric:shadows-framework:4.9.2",  # For ActivityController
     ],
     repositories = [
         "https://repo1.maven.org/maven2",
