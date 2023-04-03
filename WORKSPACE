@@ -184,7 +184,7 @@ maven_install(
         "androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1",
         "androidx.multidex:multidex:2.0.1",
         "androidx.navigation:navigation-common:2.5.1",
-        "androidx.navigation:navigation-fragment:2.5.1",
+        "androidx.navigation:navigation-fragment:2.5.3",
         "androidx.navigation:navigation-runtime:2.5.1",
         "androidx.savedstate:savedstate:1.2.0",
         "androidx.test:monitor:1.4.0",
