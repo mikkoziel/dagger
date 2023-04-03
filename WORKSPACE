@@ -232,7 +232,7 @@ maven_install(
         "javax.annotation:javax.annotation-api:1.3.2",
         "javax.inject:javax.inject:1",
         "javax.inject:javax.inject-tck:1",
-        "junit:junit:4.13",
+        "junit:junit:4.13.2",
         "net.bytebuddy:byte-buddy:%s" % BYTE_BUDDY_VERSION,
         "net.bytebuddy:byte-buddy-agent:%s" % BYTE_BUDDY_VERSION,
         "net.ltgt.gradle.incap:incap:%s" % INCAP_VERSION,
