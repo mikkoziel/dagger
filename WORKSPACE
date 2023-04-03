@@ -180,7 +180,7 @@ maven_install(
         "androidx.activity:activity:1.5.1",
         "androidx.fragment:fragment:1.5.1",
         "androidx.lifecycle:lifecycle-common:2.5.1",
-        "androidx.lifecycle:lifecycle-viewmodel:2.5.1",
+        "androidx.lifecycle:lifecycle-viewmodel:2.6.1",
         "androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1",
         "androidx.multidex:multidex:2.0.1",
         "androidx.navigation:navigation-common:2.5.1",
