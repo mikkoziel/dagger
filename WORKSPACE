@@ -189,7 +189,7 @@ maven_install(
         "androidx.savedstate:savedstate:1.2.0",
         "androidx.test:monitor:1.4.0",
         "androidx.test:core:1.4.0",
-        "androidx.test.ext:junit:1.1.3",
+        "androidx.test.ext:junit:1.1.5",
         "com.android.support:appcompat-v7:25.0.0",
         "com.android.support:support-annotations:25.0.0",
         "com.android.support:support-fragment:25.0.0",
