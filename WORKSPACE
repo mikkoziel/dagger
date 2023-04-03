@@ -213,7 +213,7 @@ maven_install(
         "com.google.errorprone:error_prone_annotation:%s" % ERROR_PRONE_VERSION,
         "com.google.errorprone:error_prone_annotations:%s" % ERROR_PRONE_VERSION,
         "com.google.errorprone:error_prone_check_api:%s" % ERROR_PRONE_VERSION,
-        "com.google.googlejavaformat:google-java-format:1.5",
+        "com.google.googlejavaformat:google-java-format:1.16.0",
         "com.google.guava:guava:%s-jre" % GUAVA_VERSION,
         "com.google.guava:guava-testlib:%s-jre" % GUAVA_VERSION,
         "com.google.guava:failureaccess:1.0.1",
