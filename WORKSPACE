@@ -94,7 +94,7 @@ ROBOLECTRIC_VERSION = "4.4"
 
 http_archive(
     name = "robolectric",
-    sha256 = "d4f2eb078a51f4e534ebf5e18b6cd4646d05eae9b362ac40b93831bdf46112c7",
+    sha256 = "7e007fcfdca7b7228cb4de72707e8b317026ea95000f963e91d5ae365be52d0d",
     strip_prefix = "robolectric-bazel-%s" % ROBOLECTRIC_VERSION,
     urls = ["https://github.com/robolectric/robolectric-bazel/archive/%s.tar.gz" % ROBOLECTRIC_VERSION],
 )
