@@ -192,7 +192,7 @@ maven_install(
         "androidx.test.ext:junit:1.1.3",
         "com.android.support:appcompat-v7:25.0.0",
         "com.android.support:support-annotations:25.0.0",
-        "com.android.support:support-fragment:25.0.0",
+        "com.android.support:support-fragment:25.4.0",
         "com.android.tools.external.org-jetbrains:uast:%s" % ANDROID_LINT_VERSION,
         "com.android.tools.external.com-intellij:intellij-core:%s" % ANDROID_LINT_VERSION,
         "com.android.tools.external.com-intellij:kotlin-compiler:%s" % ANDROID_LINT_VERSION,
