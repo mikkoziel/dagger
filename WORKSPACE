@@ -240,7 +240,7 @@ maven_install(
         "org.checkerframework:checker-compat-qual:%s" % CHECKER_FRAMEWORK_VERSION,
         "org.checkerframework:dataflow:%s" % CHECKER_FRAMEWORK_VERSION,
         "org.checkerframework:javacutil:%s" % CHECKER_FRAMEWORK_VERSION,
-        "org.hamcrest:hamcrest-core:1.3",
+        "org.hamcrest:hamcrest-core:2.2",
         "org.jetbrains.kotlin:kotlin-annotation-processing-embeddable:%s" % KOTLIN_VERSION,
         "org.jetbrains.kotlin:kotlin-compiler-embeddable:%s" % KOTLIN_VERSION,
         "org.jetbrains.kotlin:kotlin-daemon-embeddable:%s" % KOTLIN_VERSION,
