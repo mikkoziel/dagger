@@ -119,7 +119,7 @@ http_archive(
 
 load("@io_bazel_rules_kotlin//kotlin:repositories.bzl", "kotlin_repositories", "kotlinc_version")
 
-KOTLIN_VERSION = "1.8.0"
+KOTLIN_VERSION = "1.8.20"
 
 # Get from https://github.com/JetBrains/kotlin/releases/
 KOTLINC_RELEASE_SHA = "0bb9419fac9832a56a3a19cad282f8f2d6f1237d2d467dc8dfe9bd4a2a43c42e"
