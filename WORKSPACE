@@ -223,7 +223,7 @@ maven_install(
         "com.google.truth:truth:1.1",
         "com.squareup:javapoet:1.13.0",
         "com.squareup:kotlinpoet:1.11.0",
-        "io.github.java-diff-utils:java-diff-utils:4.11",
+        "io.github.java-diff-utils:java-diff-utils:4.12",
         "io.grpc:grpc-context:%s" % GRPC_VERSION,
         "io.grpc:grpc-core:%s" % GRPC_VERSION,
         "io.grpc:grpc-netty:%s" % GRPC_VERSION,
