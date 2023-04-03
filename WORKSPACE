@@ -205,7 +205,7 @@ maven_install(
         "com.google.auto.factory:auto-factory:1.0",
         "com.google.auto.service:auto-service:1.0",
         "com.google.auto.service:auto-service-annotations:1.0",
-        "com.google.auto.value:auto-value:1.9",
+        "com.google.auto.value:auto-value:1.10.1",
         "com.google.auto.value:auto-value-annotations:1.9",
         "com.google.code.findbugs:jsr305:3.0.1",
         "com.google.devtools.ksp:symbol-processing:%s" % KSP_VERSION,
