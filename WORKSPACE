@@ -46,7 +46,7 @@ google_common_workspace_rules()
 
 BAZEL_SKYLIB_VERSION = "1.2.1"
 
-BAZEL_SKYLIB_SHA = "f7be3474d42aae265405a592bb7da8e171919d74c16f082a5457840f06054728"
+BAZEL_SKYLIB_SHA = "b8a1527901774180afc798aeb28c4634bdccf19c4d98e7bdd1ce79d1fe9aaad7"
 
 http_archive(
     name = "bazel_skylib",
