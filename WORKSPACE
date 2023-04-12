@@ -246,7 +246,7 @@ maven_install(
         "org.jetbrains.kotlin:kotlin-daemon-embeddable:%s" % KOTLIN_VERSION,
         "org.jetbrains.kotlin:kotlin-stdlib:%s" % KOTLIN_VERSION,
         "org.jetbrains.kotlinx:kotlinx-metadata-jvm:0.6.0",
-        "org.mockito:mockito-core:2.28.2",
+        "org.mockito:mockito-core:5.3.0",
         "org.objenesis:objenesis:1.0",
         "org.robolectric:robolectric:4.4",
         "org.robolectric:shadows-framework:4.4",  # For ActivityController
