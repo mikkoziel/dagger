@@ -139,9 +139,9 @@ kt_register_toolchains()
 # Load Maven dependencies
 #############################
 
-RULES_JVM_EXTERNAL_TAG = "4.2"
+RULES_JVM_EXTERNAL_TAG = "5.2"
 
-RULES_JVM_EXTERNAL_SHA = "cd1a77b7b02e8e008439ca76fd34f5b07aecb8c752961f9640dea15e9e5ba1ca"
+RULES_JVM_EXTERNAL_SHA = "f86fd42a809e1871ca0aabe89db0d440451219c3ce46c58da240c7dcdc00125f"
 
 http_archive(
     name = "rules_jvm_external",
