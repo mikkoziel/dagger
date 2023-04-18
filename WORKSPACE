@@ -90,11 +90,11 @@ http_archive(
 # Load Robolectric repository
 #############################
 
-ROBOLECTRIC_VERSION = "4.4"
+ROBOLECTRIC_VERSION = "4.10"
 
 http_archive(
     name = "robolectric",
-    sha256 = "d4f2eb078a51f4e534ebf5e18b6cd4646d05eae9b362ac40b93831bdf46112c7",
+    sha256 = "2929e39c81502e03628f1469d0f7fb411dd82d8c6d75244752bc2f6b537c5baa",
     strip_prefix = "robolectric-bazel-%s" % ROBOLECTRIC_VERSION,
     urls = ["https://github.com/robolectric/robolectric-bazel/archive/%s.tar.gz" % ROBOLECTRIC_VERSION],
 )
@@ -248,8 +248,8 @@ maven_install(
         "org.jetbrains.kotlinx:kotlinx-metadata-jvm:0.6.0",
         "org.mockito:mockito-core:2.28.2",
         "org.objenesis:objenesis:1.0",
-        "org.robolectric:robolectric:4.4",
-        "org.robolectric:shadows-framework:4.4",  # For ActivityController
+        "org.robolectric:robolectric:4.10",
+        "org.robolectric:shadows-framework:4.10",  # For ActivityController
     ],
     repositories = [
         "https://repo1.maven.org/maven2",
